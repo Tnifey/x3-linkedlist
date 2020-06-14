@@ -1,4 +1,4 @@
-import { LinkedListItem } from "./LinkedListItem";
+import { LinkedListItem } from "./LinkedListItem.ts";
 type GuranteedBehindLinkedListItem<T> = LinkedListItem<T> & { behind: GuranteedBehindLinkedListItem<number> };
 
 describe("LinkedListItem#constructor", () => {
