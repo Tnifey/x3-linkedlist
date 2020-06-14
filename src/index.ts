@@ -1,2 +1,2 @@
-export * from "./LinkedList";
-export * from "./LinkedListItem";
+export * from "./LinkedList.ts";
+export * from "./LinkedListItem.ts";

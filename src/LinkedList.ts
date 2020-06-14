@@ -1,4 +1,4 @@
-import { LinkedListItem } from "./LinkedListItem";
+import { LinkedListItem } from "./LinkedListItem.ts";
 
 /**
  * Implements a linked list structure
